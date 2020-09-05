@@ -5,8 +5,8 @@ Malek ElShakhs https://glitch.com/~a1-mlshax
 
 ### Technical Achievements
 
-- **Styled Page with CSS:** Added rules for the body, h1, h2, p, li, table, th, and td as well as the job tag
-- **Used Other HTML Tags:** Used the link, table, tr, th, td, a, and b tags as well as adding a custom tag job
+- **Styled Page with CSS:** Added rules for the body, h1, h2, p, li, table, th, and td as well as the job tag, the rules I used changed the font-family, padding, background-color, margin, display, font-weight, border, border-collapse, and text-align
+- **Used Other HTML Tags:** Used the link, table, tr, th, td, a, and b tags as well as adding a custom tag job, one link is for adding the stylesheet, and the other is to make the Lato font available in the stylesheet
 
 ### Design Achievements
 
